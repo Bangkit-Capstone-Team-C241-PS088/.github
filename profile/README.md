@@ -1,4 +1,4 @@
-# FISHCURE: Fish Infection Solution & Health Care
+# FISHCURE: Fish Infection Solution & Health Care 🐟🐠🐡🦈
 
 This organization was created to facilitate collaborative work among capstone team members for C241-PS088
 
